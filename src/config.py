@@ -39,28 +39,4 @@ MODEL_PARAMS = {
 REPORT_CONFIG = {
     'output_dir': os.path.join(BASE_DIR, 'reports'),
     'template_dir': os.path.join(BASE_DIR, 'templates')
-}
-
-# UI configuration
-UI_CONFIG = {
-    'theme': {
-        'primary_color': '#1976d2',
-        'secondary_color': '#dc004e',
-        'background': '#f5f5f5'
-    },
-    'chart_defaults': {
-        'animation_duration': 750,
-        'responsive': True,
-        'maintain_aspect_ratio': False
-    },
-    'refresh_interval': 300,  # 5 minutes
-    'date_format': 'YYYY-MM-DD',
-    'currency_format': 'USD'
-}
-
-# API configuration
-API_CONFIG = {
-    'base_url': 'http://localhost:5000',
-    'timeout': 30,
-    'cache_duration': 300
 } 
