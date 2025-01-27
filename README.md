@@ -58,4 +58,3 @@ A comprehensive analytics platform that helps organizations identify cost-saving
 - Custom reporting tools
 - Export capabilities
 
-## Project Structure
