@@ -46,11 +46,6 @@ A comprehensive analytics platform that helps organizations identify cost-saving
 - Data processing pipelines
 - Real-time data integration capabilities
 
-### Analysis Layer
-- Python-based analysis modules
-- Machine learning models
-- Statistical analysis tools
-- Predictive modeling
 
 
 
