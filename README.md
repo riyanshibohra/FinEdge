@@ -40,11 +40,7 @@ A comprehensive analytics platform that helps organizations identify cost-saving
 
 ## Technical Architecture
 
-### Data Layer
-- Synthetic data generation for development
-- Scalable database structure
-- Data processing pipelines
-- Real-time data integration capabilities
+
 
 
 
