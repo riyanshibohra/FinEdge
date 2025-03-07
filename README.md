@@ -38,7 +38,6 @@ A comprehensive analytics platform that helps organizations identify cost-saving
 - AI-powered recommendations
 - Custom report generation
 
-## Technical Architecture
 
 
 
