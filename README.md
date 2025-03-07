@@ -6,7 +6,6 @@ This project is currently in active development. Features and documentation are 
 ## Project Overview
 A comprehensive analytics platform that helps organizations identify cost-saving opportunities and revenue growth potential through data analysis and machine learning.
 
-## Core Features
 
 
 
