@@ -32,11 +32,6 @@ A comprehensive analytics platform that helps organizations identify cost-saving
 - Risk assessment metrics
 - Cost-benefit analysis
 
-### 5. Smart Insights
-- NLP-generated narrative insights
-- Automated anomaly detection
-- AI-powered recommendations
-- Custom report generation
 
 
 
