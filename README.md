@@ -8,11 +8,6 @@ A comprehensive analytics platform that helps organizations identify cost-saving
 
 ## Core Features
 
-### 1. Cost Analysis
-- Variance analysis for operational expenses vs. revenue
-- Cost category clustering to identify patterns and outliers
-- AI-powered cost optimization recommendations
-- Historical cost trend analysis
 
 
 
