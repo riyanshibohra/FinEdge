@@ -52,9 +52,5 @@ A comprehensive analytics platform that helps organizations identify cost-saving
 - Statistical analysis tools
 - Predictive modeling
 
-### Visualization Layer
-- Interactive charts and graphs
-- Dynamic dashboards
-- Custom reporting tools
-- Export capabilities
+
 
