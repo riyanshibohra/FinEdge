@@ -20,11 +20,6 @@ A comprehensive analytics platform that helps organizations identify cost-saving
 - Growth opportunity identification
 - Seasonal pattern detection
 
-### 3. Interactive Dashboards
-- Real-time KPI monitoring
-- Customizable visualization options
-- Drill-down capabilities for detailed analysis
-- Comparative analysis views
 
 
 
