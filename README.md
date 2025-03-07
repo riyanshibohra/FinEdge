@@ -14,11 +14,7 @@ A comprehensive analytics platform that helps organizations identify cost-saving
 - AI-powered cost optimization recommendations
 - Historical cost trend analysis
 
-### 2. Revenue Analytics
-- Revenue forecasting using predictive models
-- Segmentation analysis (by region, product, customer type)
-- Growth opportunity identification
-- Seasonal pattern detection
+
 
 
 
